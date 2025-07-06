@@ -1,0 +1,26 @@
+.products{
+    height: 400px;
+    width: auto;
+    background-color: rgb(222, 235, 235);
+}
+
+.cartsection{
+     
+    width: auto;
+    background-color: rgb(250, 250, 250);
+    padding: 15px;
+}
+
+.cart{
+    height: auto;
+    width: auto;
+    border: 1px solid red;
+    padding: 20px;
+    
+}
+.cart ul li{
+    display: flex;
+    justify-content: space-between;
+ list-style-type: none;
+ font-size: 18px;
+}
